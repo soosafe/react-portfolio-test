@@ -46,6 +46,8 @@ I would be very happy to review your PRs and all the awesome things that you can
 - Next.js
 - TailwindCSS
 
+## Awesome Contributors
+[@Aryan3212](https://github.com/Aryan3212) [@achu-krishna](https://github.com/achu-krishna)
 
-### Thanks
-If you liked this portfolio template, don't forget to give it a ⭐.
+## Credit to:
+[@chetanverma16](https://github.com/chetanverma16)
